@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving..." />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=600&lines=AI%2FML+Enthusiast+%7C+CSE+Student;Java+%26+Python+Developer;Building+AI+%26+Computer+Vision+Systems)](https://git.io/typing-svg)
-
-[![Profile Views](https://komarev.com...)]
+lines=AI%2FML+Enthusiast+%7C+CSE+Student;Java+%26+Python+Developer;Building+AI+%26+Computer+Vision+Systems
 
 </div>
 
