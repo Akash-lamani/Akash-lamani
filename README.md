@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Akash%20Lamani&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%7C%20Java%20%26%20Python%20Developer%20%7C%20CSE%20Student&descAlignY=60&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving..." />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Akash-lamani&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/Akash-lamani)
-[![GitHub followers](https://img.shields.io/github/followers/Akash-lamani?style=flat-square&color=58a6ff&label=Followers)](https://github.com/Akash-lamani?tab=followers)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=600&lines=AI%2FML+Enthusiast+%7C+CSE+Student;Java+%26+Python+Developer;Building+AI+%26+Computer+Vision+Systems)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com...)]
 
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=600&lines=AI%2FML+Enthusiast+%7C+CSE+Student;Java+%26+Python+Developer;Building+AI+%26+Computer+Vision+Systems)](https://git.io/typing-svg)
----
 
 ## 🧑‍💻 About Me
 
