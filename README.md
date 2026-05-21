@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving..." />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=600&lines=Java+%26+Python+Developer;CSE+Student+%40+NMIT+Bangalore;SIH+Runner-Up+%7C+NMIT+Hacks;Building+Real-World+AI+%26+CV+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=600&lines=CSE+Student+%40+NMIT+Bangalore;Java+%26+Python+Developer;SIH+Runner-Up+%7C+NMIT+Hacks;Building+Real-World+AI+%26+CV+Systems)](https://git.io/typing-svg)
 </div>
 
 ## 🧑‍💻 About Me
